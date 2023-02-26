@@ -244,6 +244,8 @@ ul{
     list-style-position:inside; /*Este comando faz com que o conteúdo da lista fique dentro do bloco*/
     list-style-type: '\2714';/*Este comando muda o ícone do ítem da lista conforme o código do ícone da imagem baixada do site emojipedia.org*/
                             /*Obs.: Para que o comando funcione é preciso colocar a barra ao contrário "\" para que o comando tenha efeito*/
+    margin-left: 10px;
+    margin-right:-20px;
 }
 
 footer{

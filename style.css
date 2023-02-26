@@ -91,7 +91,7 @@ body{
    font-family: var(--fonte-padrao);
    margin: auto;
    max-width: 1000px;
-   min-width: 450px;
+   min-width: 375px;
 
    
 }
@@ -226,6 +226,10 @@ aside{
     margin-left: 0px;
     margin-right: 0px;
     padding: 5px 10px 5px 0px;
+}
+
+.lista{
+    font-size: 13px;
 }
 
 aside div{
